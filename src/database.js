@@ -1,4 +1,3 @@
-import { log, table } from 'node:console';
 import fs from 'node:fs/promises'
 
 const dbPath = new URL('../db.json', import.meta.url)

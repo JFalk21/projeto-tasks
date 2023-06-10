@@ -37,5 +37,5 @@ const hostname = '127.0.0.1'
 const port = 666
 
 server.listen(port, hostname, () => { 
-    //TODO: Algo
+    //TODO: 
 })  
